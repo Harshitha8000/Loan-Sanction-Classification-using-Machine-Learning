@@ -1,0 +1,3 @@
+data.isnull().sum()
+data=data.dropna()
+print(data)

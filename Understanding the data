@@ -1,1 +1,3 @@
 data.head()
+
+data.info()

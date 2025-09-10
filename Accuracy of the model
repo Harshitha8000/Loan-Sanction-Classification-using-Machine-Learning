@@ -1,0 +1,4 @@
+train_accuracy = accuracy_score(y_train, y_train_pred)
+test_accuracy = accuracy_score(y_test, y_test_pred)
+print("Training Accuracy:", train_accuracy)
+print("Test Accuracy:", test_accuracy)
